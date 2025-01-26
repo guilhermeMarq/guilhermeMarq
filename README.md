@@ -1,6 +1,9 @@
 # Olá! Sou o Guilherme Marques 👋
 
-Sou engenheiro mecânico formado em 2021 e atualmente estou cursando meu mestrado em Modelagem Computacional (2024). Meu interesse principal é em utilizar ferramentas computacionais para resolver problemas complexos na área de mecânica e modelagem matemática.
+Sou formado em engenharia mecânica pela Universidade do
+Estado do Rio de Janeiro. Experiência como estagiário na Companhia
+Siderúrgica Nacional, na área de manutenção e no desenvolvimento de
+melhorias. Atualmente estou fazendo mestrado em Modelagem Computacional na Universidade Federal Fluminense.
 
 ## 🧑‍🎓 Formação
 - **Mestrado em Modelagem Computacional** - Em andamento, previsão de conclusão em 2024
